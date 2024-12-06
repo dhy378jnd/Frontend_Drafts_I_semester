@@ -1,0 +1,33 @@
+.btn-success a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+
+.sidebar-link a {
+    color: #333;
+    text-decoration: none;
+}
+
+
+.col:hover {
+    transform: scale(1.05);
+}
+
+
+.card-img-top {
+    width: 100%;
+    height: auto;
+    max-height: 250px;
+    object-fit: cover;
+    border-radius: 5%;
+}
+
+.Card-title {
+    align-items: center;
+}
+
+.btn-outline-secondary {
+    margin-top: 10px;
+    align: center;
+}
